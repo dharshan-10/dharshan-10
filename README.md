@@ -7,4 +7,4 @@ An Enthusiastic Learner
 📫 How to reach me: dharshanlogesh9688@gmail.com
 
 Connect with me:
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode&logoColor=white)](https://leetcode.com/dharshanlogesh9688)
+[![](https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode&logoColor=white)](https://leetcode.com/dharshanlogesh9688)
